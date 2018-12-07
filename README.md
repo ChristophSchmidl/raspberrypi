@@ -46,7 +46,7 @@ For a full description, see: https://elinux.org/RPi_HardwareHistory
 
 Tutorial: https://computers.tutsplus.com/articles/how-to-flash-an-sd-card-for-raspberry-pi--mac-53600
 
-Download an image for the Raspberry Pi like LibreElec and uncompress it into an .img file. Put the sd card into your mac, open up the terminal and type:
+Download an image for the Raspberry Pi like LibreElec (https://libreelec.tv/downloads/) and uncompress it into an .img file. Put the sd card into your mac, open up the terminal and type:
 
 ```diskutil list```
 
