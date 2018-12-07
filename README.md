@@ -70,6 +70,7 @@ Wait a bit for the program to finish and you are done. Put the sd card into your
 
 ## Case
 
+* https://www.amazon.de/anidees-AI-PI-SG-Plus-Raspberry-Aluminium-Acryl-Top-Deckel/dp/B00SV8HTAC/ref=pd_sbs_147_6?_encoding=UTF8&pd_rd_i=B00SV8HTAC&pd_rd_r=cb86ae74-fa27-11e8-ae0b-17997801fa7c&pd_rd_w=G26Ou&pd_rd_wg=ZoQG2&pf_rd_p=51bcaa00-4765-4e8f-a690-5db3c9ed1b31&pf_rd_r=HMB2N3NVY70CX6J04P3T&psc=1&refRID=HMB2N3NVY70CX6J04P3T
 * https://www.amazon.de/FLIRC-Himbeer-Fall-Neues-Modell/dp/B07349HT26/ref=sr_1_3?ie=UTF8&qid=1544190358&sr=8-3&keywords=flirc+raspberry+pi+3
 * https://www.amazon.de/NES-Geh%C3%A4use-Raspberry-Model-Kintaro/dp/B01M4OOY4U/ref=sr_1_2?ie=UTF8&qid=1544190423&sr=8-2&keywords=snes+case+raspberry+pi+3
 * https://www.amazon.de/YIKESHU-Retroflage-Funktionale-Reset-Taste-Controller/dp/B07HH7W8GW/ref=sr_1_4?ie=UTF8&qid=1544190423&sr=8-4&keywords=snes+case+raspberry+pi+3
