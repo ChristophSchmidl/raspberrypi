@@ -75,4 +75,10 @@ Wait a bit for the program to finish and you are done. Put the sd card into your
 * https://www.amazon.de/NES-Geh%C3%A4use-Raspberry-Model-Kintaro/dp/B01M4OOY4U/ref=sr_1_2?ie=UTF8&qid=1544190423&sr=8-2&keywords=snes+case+raspberry+pi+3
 * https://www.amazon.de/YIKESHU-Retroflage-Funktionale-Reset-Taste-Controller/dp/B07HH7W8GW/ref=sr_1_4?ie=UTF8&qid=1544190423&sr=8-4&keywords=snes+case+raspberry+pi+3
 
+## Raspberry Pi for Audio
+
+* https://www.balena.io/blog/turn-your-old-speakers-or-hi-fi-into-bluetooth-receivers-using-only-a-raspberry-pi/#hardwarerequired
+* http://www.hifi-forum.de/viewthread-181-11004.html
+* https://www.max2play.com/2019/11/raspberry-pi-hi-fi-streamer-mit-7-zoll-touch-display-und-hifiberry-soundkarte/
+* https://www.hifiberry.com/
 
